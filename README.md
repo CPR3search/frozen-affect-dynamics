@@ -118,6 +118,7 @@ encoders' weights are downloaded from the Hugging Face Hub on first use.
    `python -m affectdyn.simulations.pipeline_simulation_distinct --arm all --run 1500`. Both use 18 worker processes by
    default (`--procs`).
    
+[Analysis records and manifest](https://drive.google.com/file/d/1_bGNeEhQaw3iXFLy5mvtiytQlbXgSuXZ/view?usp=sharing)
 
 ## Licence
 
